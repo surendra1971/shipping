@@ -1,4 +1,5 @@
-@Library('roboshop-shared-library')_
+@Library('roboshop-shared-library') _
 
-env.COMPONENT="SHIPPING"
+env.COMPONENT="shipping"
+env.APP_TYPE="java"
 java()
